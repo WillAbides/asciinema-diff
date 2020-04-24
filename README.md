@@ -1,1 +1,1 @@
-# goproject-tmpl
+# asciinema-diff
